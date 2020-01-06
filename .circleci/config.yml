@@ -13,4 +13,4 @@ workflows:
   version: 2
   deploy:
     jobs:
-      - deploy-dev:
+      - deploy-dev
